@@ -1,0 +1,14 @@
+{
+    "name": "anton/kapanov-dev",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Anton Kapanov",
+            "email": "anton.kapanov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    }
+}
